@@ -1,0 +1,1 @@
+# limpar-cache-archlinux
